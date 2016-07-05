@@ -30,7 +30,7 @@ struct sSize<T>
 
 int main() {
 
-	cout << sSize<int, int, int,double>::size << endl;
+	//cout << sSize<int, int, int,double>::size << endl;
 
 	
 	//typename SSArg<int,int>::Type::Type mArg(10,20.333);
